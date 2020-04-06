@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Requisição Http para retornar a JSON com as dados do desafio</title>
+</head>
+<body>
+
+    <input type="text" id="url" style="width:300px;" value="https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=b0c4a76a1c39f1399ec7c25dd485f1519c7e31d6">
+    <button onclick="fazerRequisicao();">Fazer requisição</button>
+    <hr />
+    <div id="resposta"></div>
+
+    <script>
+        function fazerRequisicao(){
+
+            var url = document.getElementById('url').value;
+
+            var response = new XMLHttpRequest();
+            response.open("GET", url, false);
+
+            response.send();
+
+            document.getElementById("resposta").innerHTML = response.responseText;
+        }
+    </script>
+</body>
+</html>

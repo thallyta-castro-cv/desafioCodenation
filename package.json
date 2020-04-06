@@ -1,0 +1,17 @@
+{
+  "name": "cripitografia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resquestUrl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "4.0.0",
+    "fs": "0.0.1-security"
+  }
+}
