@@ -8,7 +8,7 @@
 
 **Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr** 
 
-# Regras 
+## Regras 
 
  
 
@@ -42,7 +42,7 @@ OBS: a API espera um arquivo sendo enviado como multipart/form-data, como se fos
 
 O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto. 
 
-# DESCRIÇÃO DAS ETAPAS
+## DESCRIÇÃO DAS ETAPAS
 
 Neste estágio da aceleração não solicitamos que você nos envie o código do programa que você criou, mas recomendamos que você guarde uma cópia pois o mesmo pode ser solicitado nas próximas fases do processo. 
 
@@ -66,9 +66,9 @@ Para gerar o HASH SHA-1 do resumo criptográfico usei a biblioteca crypto do jav
 
 Para submeter o desafio usei o *POSTMAN* com os devidos parâmetros solicitados 
 
-Score esperado: 100 
+*Score esperado: 100*
 
-Score atingido: 100 
+*Score atingido: 100*
 
  
 
