@@ -42,35 +42,29 @@ OBS: a API espera um arquivo sendo enviado como multipart/form-data, como se fos
 
 O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto. 
 
-OBS 
+# DESCRIÇÃO DAS ETAPAS
 
 Neste estágio da aceleração não solicitamos que você nos envie o código do programa que você criou, mas recomendamos que você guarde uma cópia pois o mesmo pode ser solicitado nas próximas fases do processo. 
 
  
 
-Primeira etapa: 
+**Primeira etapa:** 
 
 Usei um codigo para fazer a requisição http para receber o desafio. 
 
- 
-
-Segunda etapa: 
+**Segunda etapa:** 
 
 Para este exemplo usei um codigo javascript para decifrar a frase enviada. 
 
 Problema: Meu código não decifra algumas letras. Vou trabalhar nisso. 
 
- 
-
-Terceira etapa: 
+**Terceira etapa:**
 
 Para gerar o HASH SHA-1 do resumo criptográfico usei a biblioteca crypto do javascript e atualizei o arquivo 
 
- 
+**Quarta etapa:** 
 
-Quarta etapa: 
-
-Para submeter o desafio usei o POSTMAN com os devidos parâmetros solicitados 
+Para submeter o desafio usei o *POSTMAN* com os devidos parâmetros solicitados 
 
 Score esperado: 100 
 
@@ -78,4 +72,4 @@ Score atingido: 100
 
  
 
-Contato:  thallyta180136319@gmail.com 
+**Contato:  thallyta180136319@gmail.com**
