@@ -1,6 +1,12 @@
 # Criptografia de Júlio César
 
+![NPM](https://img.shields.io/npm/l/react)
+
 Desafio inicial para aprovação na Aceleração React Codenation.
+
+# Sobre o projeto
+
+
 
 # Descrição do desafio 
 
