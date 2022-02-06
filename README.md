@@ -1,6 +1,8 @@
 # Criptografia de Júlio César
 
- 
+Desafio inicial para aprovação na Aceleração React Codenation.
+
+# Descrição do desafio 
 
  Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondido”, e gráphein, “escrita”) é o estudo e prática de princípios e técnicas para comunicação segura na presença de terceiros, chamados “adversários”. Mas geralmente, a criptografia refere-se à construção e análise de protocolos que impedem terceiros, ou o público, de lerem mensagens privadas. Muitos aspectos em segurança da informação, como confidencialidade, integridade de dados, autenticação e não-repúdio são centrais à criptografia moderna. Aplicações de criptografia incluem comércio eletrônico, cartões de pagamento baseados em chip, moedas digitais, senhas de computadores e comunicações militares. Das Criptografias mais curiosas na história da humanidade podemos citar a criptografia utilizada pelo grande líder militar romano Júlio César para comunicar com os seus generais. Essa criptografia se baseia na substituição da letra do alfabeto avançado um determinado número de casas. Por exemplo, considerando o número de casas = 3: 
 
@@ -8,9 +10,7 @@
 
 **Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr** 
 
-## Regras 
-
- 
+## Regras  
 
 As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia. 
 
@@ -42,27 +42,26 @@ OBS: a API espera um arquivo sendo enviado como multipart/form-data, como se fos
 
 O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto. 
 
-### DESCRIÇÃO DAS ETAPAS
+# Etapas do desafio e execução do projeto
 
 Neste estágio da aceleração não solicitamos que você nos envie o código do programa que você criou, mas recomendamos que você guarde uma cópia pois o mesmo pode ser solicitado nas próximas fases do processo. 
-
  
 
-**Primeira etapa:** 
+#### Primeira etapa:
 
 Usei um codigo para fazer a requisição http para receber o desafio. 
 
-**Segunda etapa:** 
+#### Segunda etapa:
 
 Para este exemplo usei um codigo javascript para decifrar a frase enviada. 
 
 Problema: Meu código não decifra algumas letras. Vou trabalhar nisso. 
 
-**Terceira etapa:**
+#### Terceira etapa:
 
 Para gerar o HASH SHA-1 do resumo criptográfico usei a biblioteca crypto do javascript e atualizei o arquivo 
 
-**Quarta etapa:** 
+#### Quarta etapa: 
 
 Para submeter o desafio usei o *POSTMAN* com os devidos parâmetros solicitados 
 
@@ -70,6 +69,12 @@ Para submeter o desafio usei o *POSTMAN* com os devidos parâmetros solicitados
 
 *Score atingido: 100*
 
- 
+ # Autor
 
-**Contato:  thallyta180136319@gmail.com**
+<b>Thallyta Macedo Carvalho de Castro</b>
+
+Linkedin: [https://www.linkedin.com/in/thallyta-castro/](https://www.linkedin.com/in/thallyta-castro/)
+
+Medium: [https://medium.com/@thallyta-castro-cv](https://medium.com/@thallyta-castro-cv)
+
+email: [contato@thallytacastro.com.br](mailto:contato@thallytacastro.com.br)
