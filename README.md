@@ -5,7 +5,9 @@
 Desafio inicial para aprovação na Aceleração React Codenation.
 
 # Sobre o projeto
+Este desafio teve como objetivo decifrar uma frase de criptografia de Júlio César com **Javascript**. 
 
+Para buscar a frase criptografada, foi usado o **postman** aplicando os conceitos de API Rest.
 
 
 # Descrição do desafio 
